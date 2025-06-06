@@ -25,5 +25,8 @@
 <a href="CloudKit"> <img src="./.assets/CloudKit.png" alt="CloudKit" width="30%"> </a>
 <a href="Core Bluetooth"> <img src="./.assets/Core Bluetooth.png" alt="Core Bluetooth" width="30%"> </a> 
 <a href="EventKit"> <img src="./.assets/EventKit.png" alt="EventKit" width="30%"> </a> 
+<a href="MapKit"> <img src="./.assets/MapKit.png" alt="MapKit" width="30%"> </a>
+<a href="SceneKit"> <img src="./.assets/SceneKit.png" alt="SceneKit" width="30%"> </a> 
+<a href="VisionKit"> <img src="./.assets/VisionKit.png" alt="VisionKit" width="30%"> </a>
 
 Apple Developer Academy @ Infinite Learning Batam.
