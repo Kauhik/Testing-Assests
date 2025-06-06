@@ -28,5 +28,7 @@
 <a href="MapKit"> <img src="./.assets/MapKit.png" alt="MapKit" width="30%"> </a>
 <a href="SceneKit"> <img src="./.assets/SceneKit.png" alt="SceneKit" width="30%"> </a> 
 <a href="VisionKit"> <img src="./.assets/VisionKit.png" alt="VisionKit" width="30%"> </a>
+<a href="WidgetKit"> <img src="./.assets/WidgetKit.png" alt="WidgetKit" width="30%"> </a>
+
 
 Apple Developer Academy @ Infinite Learning Batam.
