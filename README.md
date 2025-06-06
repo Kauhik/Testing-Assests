@@ -22,6 +22,8 @@
 <a href="GameKit"> <img src="./.assets/game.png" alt="GameKit" width="30%"> </a> 
 <a href="SpriteKit"> <img src="./.assets/spritekit.png" alt="SpriteKit" width="30%"> </a> 
 <a href="Speech"> <img src="./.assets/speech.png" alt="Speech" width="30%"> </a> 
-
+<a href="CloudKit"> <img src="./.assets/CloudKit.png" alt="CloudKit" width="30%"> </a>
+<a href="Core Bluetooth"> <img src="./.assets/Core Bluetooth.png" alt="Core Bluetooth" width="30%"> </a> 
+<a href="EventKit"> <img src="./.assets/EventKit.png" alt="EventKit" width="30%"> </a> 
 
 Apple Developer Academy @ Infinite Learning Batam.
